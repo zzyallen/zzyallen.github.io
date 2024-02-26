@@ -88,6 +88,7 @@ p,
 a {
   font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
   font-size: 16px;
+  font-style: Bold;
 }
 
 strong {
@@ -149,4 +150,17 @@ h3 {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+body {
+  margin-bottom: 50px;
+}
+
+.image-container {
+  text-align: center;
+}
+img {
+  width: 20%;
+  max-width: 20%;
+  height: auto;
 }
