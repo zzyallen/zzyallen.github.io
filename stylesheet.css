@@ -64,8 +64,14 @@
 }
 
 a {
-  color: #1772d0;
+  color: #2bb662;
   text-decoration: none;
+}
+
+a1 {
+  color: #000000;
+  text-decoration: none;
+  font-weight: 730;
 }
 
 a:focus,
@@ -80,33 +86,44 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 730;
+  color: black;
 }
 
 h2 {
   margin: 0;
   font-weight: normal;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: 530;
+}
+
+h3 {
+  margin: 0;
+  font-weight: normal;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
 }
 
 .papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700;
 }
 
 .name {
-  padding-top: 20px;
+  padding-top: 30px;
   margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: 530;
 }
 
 .one {
