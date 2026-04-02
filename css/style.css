@@ -82,6 +82,9 @@ figure {
   overflow-y: scroll;
   z-index: 1001;
   background: #f2f3f7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -548,7 +551,7 @@ body.offcanvas {
   display: block;
   width: 25px;
   height: 25px;
-  background: #2c98f0;
+  background: #90e0ef;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -562,9 +565,9 @@ body.offcanvas {
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
     color: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
-    background: #ec5453; }
+    background: #ffcad4; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #f9bf3f; }
+    background: #a3b18a; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
     background: #a84cb8; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
